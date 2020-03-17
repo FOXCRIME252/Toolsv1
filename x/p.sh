@@ -22,7 +22,7 @@ echo $pu"╔══════════════════════�
 
 echo $pu"║"$pur" Tools"$cy" Versi 2.0"$ku" New"$bi" Isi"$pur" 20 Tools"$pu" ║"
 
-echo $pu"║"$ku" Username Dan Password Baru"$pu"   	   ║"echo $pu"║"$me" Jika Gak Tau"$cy" ("$ku"User & Passnya"$cy")"$pu"    ║"
+echo $pu"║"$ku" Username Dan Password Baru"$pu"   	   ║"$pu"║"$me" Jika Gak Tau"$cy" ("$ku"User & Passnya"$cy")"$pu"    ║"
 
 echo $pu"║"$bi" Bisa Download Dulu! Pilih No.4"$pu"   ║"
 
